@@ -7,13 +7,17 @@ KMM Timing AB, 556859-7321, c/o Mattias Bramstång, Terriervägen 4, 302 64 Halm
 
 est mika:timing AB, 556496-3550, Tryckarevägen 16, 434 37 Kungsbacka  (nedan kallad est mika:timing) levererar tjänster för datalagring av anmälningar och resultat och agerar därför som personuppgiftsbiträde åt PrinsensMinne. Ett personuppgiftsbiträdesavtal är tecknat mellan PrinsensMinne och est mika:timing.
 
+Vi använder Mailgun Technologies, Inc., 535 Mission St. – 14th Floor, San Francisco, CA 94105 (nedan kallad Mailgun) när vi skickar löpande e-post. Ett personuppgiftsbiträdesavtal är tecknat mellan PrinsensMinne och Mailgun.
+
+För att göra e-postkampanjer använder vi The Rocket Science Group LLC d/b/a MailChimp, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA (nedan kallad Mailchimp). Ett personuppgiftsbiträdesavtal är tecknat mellan PrinsensMinne och Mailchimp.
+
 Varför behandlar vi dina personuppgifter?
 -----------------------------------------
 
 För att PrinsensMinne ska kunna genomföras behandlas personuppgifter för olika ändamål kopplade till loppet.
 PrinsensMinne behandlar personuppgifter för att administrera loppet (vid anmälan, under pågående lopp och efter loppet vid resultatrapportering), kommunicera med deltagarna (utskick med tävlingsinformation etc.) samt hantera lopprelaterade ekonomiska transaktioner (anmälningsavgifter mm.).
 
-PrinsensMinne använder fotografier, rörliga bilder eller ljudupptagningar, tagna i samband med loppet, på hemsidan eller i andra marknadsföringssyften. Vill du att vi plockar bort fotografier eller liknande på dig så gör vi det snarast efter vi blivit informerade om detta.
+PrinsensMinne använder fotografier, rörliga bilder eller ljudupptagningar, tagna i samband med loppet, på hemsidan och i vår marknadsföring av loppet (digitalt eller tryckt). Samtliga bilder som vi kan tänkas använda finns i bildgallerierna på vår hemsida. Vill du att vi plockar bort fotografier eller liknande på dig så gör vi det snarast efter vi blivit informerade om detta.
 
 PrinsensMinne är personuppgiftsansvarig för behandlingen av de personuppgifter som sker vid:
 * Anmälan till loppet
@@ -35,6 +39,8 @@ Dina personuppgifter kommer inte att utsättas för automatiserat beslutsfattand
 est mika:timing använder ett datacenter i Tyskland och därför kommer dina personuppgifter som insamlas vid deltagande i loppet att överföras dit.
 
 PrinsensMinne använder ett webbhotell i Nederländerna och därför kommer personuppgifter som insamlas via hemsidan att överföras dit.
+
+Både Mailgun och Mailchimp använder servrar i USA och därför kommer de personuppgifter som finns i e-post som skickas från oss att överföras dit. Båda företagen har anslutit sig till det så kallade Privacy Shield vilket innebär att skyddsnivån för dina personuppgifter är tillräckligt hög för att godkänna en överföring av dem till tredje land (utanför EU/EES). 
 
 Vilken laglig grund har vi för personuppgiftsbehandling?
 --------------------------------------------------------
