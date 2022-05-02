@@ -16,7 +16,7 @@ Vi vill även informera om att idrottsevenemang på en bestämd dag eller under 
 Vid eventuellt inställt lopp återbetalar vi 50% av anmälningsavgiften.
 
 ### Deltagarvillkor
-Svenska Friidrottsförbundets [regler](http://www.friidrott.se/Regler/index.aspx) gäller. Det innebär bland annat att du ska fylla 17 år det kalenderår loppet genomförs för att få delta i halvmaraton. Ungdomsloppet är öppet för ungdomar och dit räknas man enligt Svenska Friidrottsförbundet till och med det år man fyller 17 år.
+Svenska Friidrottsförbundets [regler](https://www.friidrott.se/tavling/Regler/) gäller.
 
 Du deltar i loppet på eget ansvar.
 
